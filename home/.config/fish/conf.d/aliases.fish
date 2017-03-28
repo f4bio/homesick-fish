@@ -1,0 +1,10 @@
+alias xclip "xclip -selection clipboard"
+alias npmx "set PATH (npm bin) $PATH"
+alias mtn "mtn -f $HOME/.fonts/Cyberbit.ttf"
+alias sudo "sudo -S"
+alias dd "dd status=progress"
+alias trezor-agent "trezor-agent -e ed25519"
+alias trezor-git "trezor-agent -e ed25519 git@git.f4b.io -- git"
+alias tgit "trezor-git"
+alias tssh "trezor-agent -c"
+
