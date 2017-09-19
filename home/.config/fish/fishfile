@@ -13,11 +13,13 @@ fisherman/humanize_duration
 fisherman/javahome
 fisherman/last_job_id
 fisherman/menu
+fisherman/nvm
 fisherman/paths
 oh-my-fish/plugin-pbcopy
 fisherman/pwd_info
 fisherman/pwd_is_home
 fisherman/simple
 fisherman/spin
+oh-my-fish/plugin-thefuck
 fisherman/tio
 fisherman/transfer
